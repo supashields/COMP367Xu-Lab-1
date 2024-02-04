@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\DevOps Implementation - COMP 367 - 401\\COMP367Xu-Lab-1\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj": {}
+    "D:\\COMP367Xu-Lab-1\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\DevOps Implementation - COMP 367 - 401\\COMP367Xu-Lab-1\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj": {
+    "D:\\COMP367Xu-Lab-1\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\DevOps Implementation - COMP 367 - 401\\COMP367Xu-Lab-1\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+        "projectUniqueName": "D:\\COMP367Xu-Lab-1\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
         "projectName": "MyCoreApp",
-        "projectPath": "C:\\Users\\User\\Desktop\\DevOps Implementation - COMP 367 - 401\\COMP367Xu-Lab-1\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+        "projectPath": "D:\\COMP367Xu-Lab-1\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\DevOps Implementation - COMP 367 - 401\\COMP367Xu-Lab-1\\MyCoreApp\\MyCoreApp\\obj\\",
+        "outputPath": "D:\\COMP367Xu-Lab-1\\MyCoreApp\\MyCoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyCoreApp
 build_property.RootNamespace = MyCoreApp
-build_property.ProjectDir = C:\Users\User\Desktop\DevOps Implementation - COMP 367 - 401\COMP367Xu-Lab-1\MyCoreApp\MyCoreApp\
+build_property.ProjectDir = D:\COMP367Xu-Lab-1\MyCoreApp\MyCoreApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\DevOps Implementation - COMP 367 - 401\COMP367Xu-Lab-1\MyCoreApp\MyCoreApp
+build_property.MSBuildProjectDirectory = D:\COMP367Xu-Lab-1\MyCoreApp\MyCoreApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/Desktop/DevOps Implementation - COMP 367 - 401/COMP367Xu-Lab-1/MyCoreApp/MyCoreApp/Pages/Error.cshtml]
+[D:/COMP367Xu-Lab-1/MyCoreApp/MyCoreApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/DevOps Implementation - COMP 367 - 401/COMP367Xu-Lab-1/MyCoreApp/MyCoreApp/Pages/Index.cshtml]
+[D:/COMP367Xu-Lab-1/MyCoreApp/MyCoreApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/DevOps Implementation - COMP 367 - 401/COMP367Xu-Lab-1/MyCoreApp/MyCoreApp/Pages/Privacy.cshtml]
+[D:/COMP367Xu-Lab-1/MyCoreApp/MyCoreApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/DevOps Implementation - COMP 367 - 401/COMP367Xu-Lab-1/MyCoreApp/MyCoreApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/COMP367Xu-Lab-1/MyCoreApp/MyCoreApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/DevOps Implementation - COMP 367 - 401/COMP367Xu-Lab-1/MyCoreApp/MyCoreApp/Pages/_ViewImports.cshtml]
+[D:/COMP367Xu-Lab-1/MyCoreApp/MyCoreApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/DevOps Implementation - COMP 367 - 401/COMP367Xu-Lab-1/MyCoreApp/MyCoreApp/Pages/_ViewStart.cshtml]
+[D:/COMP367Xu-Lab-1/MyCoreApp/MyCoreApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/DevOps Implementation - COMP 367 - 401/COMP367Xu-Lab-1/MyCoreApp/MyCoreApp/Pages/Shared/_Layout.cshtml]
+[D:/COMP367Xu-Lab-1/MyCoreApp/MyCoreApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9jg7yyy9r7
